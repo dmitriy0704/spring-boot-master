@@ -1,5 +1,9 @@
 # Spring Boot master-project
 
-> Основные теоретические сведения по проекту в /docs/doc-main.md
+> Книга "Spring и Spring Boot. Разработка облачных приложений на Java"
 
+
+>  Глава 1. Теория
+
+[doc_ch1.md](docs/doc_ch1.md)
 
